@@ -1,5 +1,3 @@
-'use strict';
-
 const defaultMessages = {
   // English language - Used by default
   en: {
